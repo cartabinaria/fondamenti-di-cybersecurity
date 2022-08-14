@@ -1,0 +1,3 @@
+#!/bin/bash -ex
+
+pandoc --pdf-engine=xelatex -t pdf $1 -o ${1%.md}.pdf
