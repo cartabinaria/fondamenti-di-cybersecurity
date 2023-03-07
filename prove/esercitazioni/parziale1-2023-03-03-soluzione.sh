@@ -1,3 +1,7 @@
+#!/bin/bash
+
+## Part 1: overthewire.org
+
 # Level 0 -> Level 1
 cat readme
 
@@ -31,3 +35,7 @@ sort data.txt | uniq -c | sort -r | head -n 1 -
 
 # Level 9 -> Level 10
 cat data.txt | strings | grep ===
+
+## Part 2: hidden services
+
+# Flag: p4ssw0rd1
