@@ -1,0 +1,13 @@
+----LAND THE DREAMLINER----
+Hint 1: The autopilot relies safely on the PHP page /autopilot.php (http.request.uri)
+
+Hint 2: The 'a' POST parameter contains the plan commands. (http.request.method)
+
+
+----DETECT THE INTRUDER----
+
+Hint 1: Filter traffic running on port 22 and analyze the content
+
+Hint 2: Check if the dissector decode the http packets in the right way, otherwise fix it.
+
+Hint 3: You can download file transfered during the traffic analysis with the File->Export Objects->HTTP panel of Wireshark
