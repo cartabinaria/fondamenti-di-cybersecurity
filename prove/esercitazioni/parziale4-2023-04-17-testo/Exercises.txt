@@ -1,0 +1,12 @@
+
+Questi sono gli hash delle password che servono a decifrare i vari file(1,2,3) caricati su virtuale. 
+
+Obbiettivo: Trovare le flag.
+Consiglio: risolveteli in ordine.
+
+HASH PASSWORD 1: a4716c0b21b3e11ab40cbcecd2f2783804ae8ce2
+
+HASH PASSWORD 2a: 2bb80d537b1da3e38bd30361aa855686bde0eacd7162fef6a25fe97bf527a25b
+HASH PASSWORD 2b: 6e1ec84e410f94b7b3999f1013a4e944
+
+HASH PASSWORD 3: bc107137cda7aa074de2664a88247f2dfa54546923049ec929869edd6bc648a0
